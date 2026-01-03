@@ -34,7 +34,7 @@ The project consists of three main components:
 - Successfully localized the vehicle under moderate noise
 - Observed degradation with high sensor noise or insufficient particles
 
-📈 Example visualization:
+Example visualization:
 
 ![Particle Filter Results](plots/particle_filter_results.png)
 
